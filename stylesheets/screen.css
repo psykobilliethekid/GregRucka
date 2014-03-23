@@ -1,0 +1,90 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 9, ../sass/screen.scss */
+body {
+  margin: 0 360px;
+  border: 10px double #000;
+  padding: 0 30px;
+  float: none;
+  clear: both;
+  position: relative;
+}
+
+/* line 18, ../sass/screen.scss */
+.title {
+  font-size: 35px;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+  width: 500px;
+}
+
+/* line 25, ../sass/screen.scss */
+.title span {
+  margin-bottom: 4px;
+  display: block;
+  border-bottom: 5px solid #000;
+}
+
+/* line 31, ../sass/screen.scss */
+.title2 {
+  font-size: 35px;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+  width: 750px;
+}
+
+/* line 38, ../sass/screen.scss */
+.title2 span {
+  margin-bottom: 4px;
+  display: block;
+  border-bottom: 5px solid #000;
+}
+
+/* line 44, ../sass/screen.scss */
+.title3 {
+  font-size: 35px;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+  width: 750px;
+}
+
+/* line 51, ../sass/screen.scss */
+.title3 span {
+  margin-bottom: 4px;
+  display: block;
+  border-bottom: 2px solid #000;
+}
+
+/* line 57, ../sass/screen.scss */
+img {
+  width: 275px;
+  height: 410px;
+  float: right;
+  postion: relative;
+  margin-left: 20px;
+}
+
+/* line 65, ../sass/screen.scss */
+.awards {
+  width: 700px;
+  list-style: none;
+  padding: 5px;
+}
+
+/* line 73, ../sass/screen.scss */
+#works ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 3px 15px;
+}
+
+/* line 81, ../sass/screen.scss */
+#footer {
+  float: none;
+  clear: both;
+  text-align: center;
+  font-size: 11px;
+  border-top: 1px solid #000;
+}
