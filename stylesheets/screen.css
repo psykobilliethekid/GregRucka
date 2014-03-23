@@ -111,7 +111,7 @@ img {
 }
 /* line 96, ../sass/screen.scss */
 #books a:hover {
-  background-color: #F0F0F0;
+  background-color: #CCFFFF;
   transition: ease;
 }
 
@@ -133,7 +133,7 @@ img {
 }
 /* line 114, ../sass/screen.scss */
 #comics a:hover {
-  background-color: #F0F0F0;
+  background-color: #CCFFFF;
   transition: ease;
 }
 
@@ -155,7 +155,7 @@ img {
 }
 /* line 132, ../sass/screen.scss */
 #stories a:hover {
-  background-color: #F0F0F0;
+  background-color: #CCFFFF;
   transition: ease;
 }
 
@@ -182,7 +182,7 @@ img {
 }
 /* line 156, ../sass/screen.scss */
 #social a:hover {
-  background-color: #F0F0F0;
+  background-color: #CCFFFF;
   transition: ease;
 }
 
